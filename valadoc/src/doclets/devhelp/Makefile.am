@@ -1,0 +1,6 @@
+NULL =
+
+
+SUBDIRS = doclet \
+          $(NULL)
+
